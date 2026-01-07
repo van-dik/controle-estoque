@@ -18,7 +18,7 @@ Esse projeto tá sendo desenvolvido pra facilitar o controle de estoque de uma e
 Primeiro, clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/controle-estoque.git
+git clone https://github.com/van-dik/controle-estoque.git
 cd controle-estoque
 ```
 
